@@ -48,7 +48,7 @@ common methods or fields, or require access modifiers other than
 	
 	public class AbstractClasses {
 		public static void main(String[] args) {
-			
+			System.out.println("Hi");
 			
 		}
 }
